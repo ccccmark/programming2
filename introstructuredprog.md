@@ -1,4 +1,4 @@
-# Syllabus Unit 1
+<h6> Syllabus Unit 1 <h6>
 
 Welcome to the resume of the Unit 1 syllabus, in this file you will find some useful information about the first unit of the Programming subject.
 
@@ -13,4 +13,8 @@ Functional programming focuses on functions. In a functional program, all the el
 
 
 *Dataflow*
+
+
 In a control flow language, you have a stream of instructions which operate on external data. Conditional execution, jumps and procedure calls change the instruction stream to be executed. This could be seen as instructions flowing through data (for example, instructions operate on registers which are loaded with data by instructions
+
+
