@@ -1,4 +1,4 @@
-# Syllabus Unit 1
+#Unit 1
 
 Welcome to the resume of the Unit 1 syllabus, in this our file you will find some useful information about the first unit of the Programming subject.
 
@@ -37,7 +37,6 @@ Logic programming studies the use of logic for problem solving and control over 
 Logical programming, together with functional programming, is part of what is known as Declarative Programming, that is, programming consists of indicating how to solve a problem by means of sentences. In Logical Programming, one works in a descriptive way, establishing relationships between entities. , indicating not how, but what to do, then it is said that the essential idea of ​​logic programming is
 
 
-*Template-based*
 
 *Structured*
 
@@ -70,5 +69,58 @@ Many widely used programming languages, such as C, C ++, and Java, are no longer
 
 Object-oriented programming is a style that treats data as objects with attributes and methods that can be applied to these objects and also be inherited by other objects.
 The OOP focuses on classes and objects. When representing variables as objects, a function (method) can be passed to it. An object that belongs to a particular class can be treated independently. The OOP can be class based, which in this case objects are based on predefined classes. Prototype-based OOP also exists, so there is no need for classes and only objects are used.
+
+
+
+
+Data Representation: identifier: is a string of alphanumeric that begin with an alphabetic char are used to represent varius programing element as arrays,function,structure,etc.
+
+Variable: value that change,depending on condition of information
+
+constant: value that cant be change
+
+reserved word: terms or phrases appropiated for special use 
+
+primitive: are predefined data which supported by the programing languajes
+
+compositive:values that are components as arrays,etc.
+
+Data type convertion: is a changing values from one data type storage format to another
+
+-integer: whole number(8bits)
+-char:a character variable(1 byte)
+-float:a fractional number(16bits)
+-long: a long integer (8 bytes)(-9223377203674738808 to 9223377203674738808)
+
+
+#operators
+conditional:operators that is aexpression of returning two values is represent by "?"
+
+**logical
+
+And: represented by "&&"
+Or: represented by "||"
+no: represented by "!"
+
+**relationship: use to compare 2 variables
+
+greather than:= ">"
+less than:="<"
+equal to: "=="
+not equal to:"!="
+
+
+**distributed version control(git)
+
+distributed version control system is a type of version control where the complete codebase, including its full version history
+Git is a open source distributed version control system tool designed to handle everything from small to very large projects with speed and efficiency. Git has the functionality, performance, security and flexibility that most teams and individual developers need. It also serves as an important distributed version-control
+
+
+References
+
+https://desarrollo.espino.info/la-alegria-de-programar/los-paradigmas-de-programacion.html
+https://codigofacilito.com/articulos/programacion-funcional
+https://www.ecured.cu/Programacion_estructuradahttps://www.ecured.cu/Programacion_estructurada
+http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
 
 
