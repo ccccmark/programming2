@@ -116,6 +116,14 @@ Git is a open source distributed version control system tool designed to handle 
 Git has the functionality, performance, security and flexibility that most teams and individual developers need. It also serves as an important distributed version-control.
 
 
+### what is Spaguetti code?
+the spaghetti code is a poorly structured program code, overused with jumps (goto), twisted and tangled like a plate of spaghetti. Those programs that have been modified over the years by a multitude of different programmers tend to present this kind of convoluted structure.
+
+![imagen 1][Logo]
+
+[Logo]: https://docplayer.es/docs-images/41/3460988/images/page_4.jpg
+
+
 ## References
 
 [Programming paradigms](https://desarrollo.espino.info/la-alegria-de-programar/los-paradigmas-de-programacion.html)
