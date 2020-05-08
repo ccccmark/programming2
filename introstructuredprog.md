@@ -107,7 +107,7 @@ _Equal to_: "=="
 _Not equal to_:"!="
 
 
-### Distributed version control(git)
+### Distributed version control (git)
 
 Distributed version control system is a type of version control where the complete codebase, including its full version history.
 
@@ -116,9 +116,17 @@ Git is a open source distributed version control system tool designed to handle 
 Git has the functionality, performance, security and flexibility that most teams and individual developers need. It also serves as an important distributed version-control.
 
 
-### what is Spaguetti code?
-the spaghetti code is a poorly structured program code, overused with jumps (goto), twisted and tangled like a plate of spaghetti. Those programs that have been modified over the years by a multitude of different programmers tend to present this kind of convoluted structure.
+### What is Spaguetti code?
+the spaghetti code is a poorly structured program code, overused with jumps (goto), twisted and tangled like a plate of spaghetti. Those programs that have been modified over the years by a multitude of different programmers tend to present this kind of convoluted structure. 
 
+Spaghetti code is also known as difficult-to-maintain source code, and it has his own types of spaghetti code:
+
++ **Ravioli Code**: It describes code that comprises well-structured classes that are easy to understand in isolation, but difficult to understand as a whole.
+
++ **Lasangna Code**: Whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers. Summarizing, if one layer is modified, all code need to be modified.
+
+
++ **Pizza Code**: Flat architecture code
 ![imagen 1][Logo]
 
 [Logo]: https://docplayer.es/docs-images/41/3460988/images/page_4.jpg
