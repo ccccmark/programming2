@@ -86,7 +86,7 @@ Recursion means subprogram call itself.recursive subprogram calls. is one of the
 
 <img src="https://cdn.programiz.com/sites/tutorial2program/files/how-recursion-works-c_0.jpg" width="200">
 
--direct
+<h3>direct</h3>
 When in the body of a method there is a call to the same method, we say that the method is directly recursive. That means Direct recursion occurs when a method invokes itself.
 
 -direct recursion makes overhead.
@@ -108,7 +108,7 @@ int num()
 
 
 
--indirect
+<h3>indirect</h3>
 In indirect recursion more than one function are by the other function and number of times.
 
 -The indirect recursion does not make any overhead as direct recursion
